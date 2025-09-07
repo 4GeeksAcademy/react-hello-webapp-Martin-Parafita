@@ -73,7 +73,7 @@ export const AddContact = () => {
             <button type="submit" className="mb-3 btn btn-success container">Save</button>
         </form>
       
-      <Link to="/Contacts">
+      <Link to="/">
         <span className="btn btn-primary btn-lg" href="#" role="button">
           Back Contacts
         </span>
